@@ -1,5 +1,3 @@
-# workshop-building-a-form
-
 # Registreringsformulär
 
 Er uppgift är att skapa ett registreringsformulär. Temat är "Söka ett jobb". Ta inspiration om utseende och användarfeedback från sajter med liknande tema. 💼
